@@ -25,6 +25,9 @@ html:not(.light) .ph-moon{
   display: none;
 }
 
+html:not(.light) #controls2 button{
+  color: var(--controls-bg-color);
+}
 #toggle-mode{
   position: absolute;
   right: 3.2rem;

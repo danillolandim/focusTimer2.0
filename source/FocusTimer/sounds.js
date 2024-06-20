@@ -1,0 +1,6 @@
+export const buttonPressAudio = new Audio('./assets/button-press.wav')
+export const kitchenTimer = new Audio('./assets/kichen-timer.mp3')
+export const bgFloresta = new Audio('./assets/Floresta.wav')
+export const bgChuva = new Audio('./assets/chuva.wav')
+export const bgCafeteria = new Audio('./assets/Cafeteria.wav')
+export const bgLareira = new Audio('./assets/Lareira.wav')
